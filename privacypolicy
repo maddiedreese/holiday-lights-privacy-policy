@@ -1,0 +1,1 @@
+The Holiday Lights extension does not collect, use, store, or share any user data. The "Storage" permission is used only to save your local settings (On/Off state). The extension operates entirely client-side.
